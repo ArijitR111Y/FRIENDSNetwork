@@ -19,7 +19,7 @@ else
 ?>
 <html>
 <head>
-	<title>Welcome to S-network</title>
+	<title>Welcome to f.r.i.e.n.d.s</title>
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 	<script type="text/javascript" src="assets/javascript/jquery-3.3.1.min.js"></script>
 	<script type="text/javascript" src="assets/javascript/bootstrap.min.js"></script> 
@@ -46,7 +46,7 @@ else
 	                    <span class="icon-bar"></span>
 	                    <span class="icon-bar"></span>
 	            </button>
-	            <a href="index.php" class="navbar-brand"><span class="sonder">Sonder </span><span class="glyphicon glyphicon-star-empty"></a>
+	            <a href="index.php" class="navbar-brand"><span class="sonder">F.R.I.E.N.D.S</span><span class="glyphicon glyphicon-star-empty"></a>
 
 
 	        </div>

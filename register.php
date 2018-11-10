@@ -17,7 +17,7 @@ require 'includes/form_handler/login_handler.php';
 	<!-- LOGIN FORM -->
  <div class="wrap-login">
  	<div class="heading">
- 		<h2 id="heading1">S-NETWORK</h2>
+ 		<h2 id="heading1">F.R.I.E.N.D.S</h2>
  		<h3 id="heading2">Login or Sign up below</h4>
  	</div>
  	<div class="login" id="login">
